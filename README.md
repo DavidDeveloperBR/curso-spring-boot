@@ -1,2 +1,2 @@
 # curso-spring-boot
-Repositório para o meu aprendizado de Spring Boot.
+Repositório para o aprendizado de Spring Boot.
